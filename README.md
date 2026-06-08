@@ -78,7 +78,7 @@ const samandar = {
 
 | Loyiha | Tavsif | Texnologiyalar |
 |--------|--------|----------------|
-| 🎬 [Sam-Movie](https://github.com/samandarramonaliyev/Sam-movie) | Kino qidirish ilovasi | JavaScript |
+| 🎬 [Sam-Movie](https://github.com/samandarramonaliyev/Sam-movie) | Kino qidirish ilovasi | Django |
 | 🧮 [Math Game](https://github.com/samandarramonaliyev/math-game) | Matematik o'yin | HTML/JS |
 | 🔴 [MUFC](https://github.com/samandarramonaliyev/mufc) | Man United fan page | HTML/CSS |
 | 🐍 [Mars Students](https://github.com/samandarramonaliyev/Mars-Students) | Talabalar boshqaruv tizimi | Python |
