@@ -64,8 +64,8 @@ const samandar = {
 ## 📊 GitHub Statistika | GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samandarramonaliyev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samandarramonaliyev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samandarramonaliyev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0d9488&icon_color=0d9488&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samandarramonaliyev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0d9488&text_color=ffffff"/>
 </div>
 
 <div align="center">
