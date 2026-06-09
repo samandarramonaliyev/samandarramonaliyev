@@ -17,7 +17,7 @@
 ```javascript
 const samandar = {
   name: "Samandar Ramonaliyev",
-  role: "Intern Backend Developer",
+  role: "Junior Backend Developer",
   school: "Mars IT School 🎓",
   location: "Uzbekistan 🇺🇿",
   currentFocus: "Building REST APIs & learning open source",
