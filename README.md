@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d9488&height=200&section=header&text=Samandar%20Ramonaliyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%7C%20Express%20%7C%20PostgreSQL&descAlignY=58&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d9488&height=200&section=header&text=Samandar%20Ramonaliyev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20PostgreSQL&descAlignY=58&descColor=94a3b8" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Samandar+%F0%9F%91%8B;Python+Developer+in+progress+%F0%9F%9A%80;Building+APIs+with+Django+%26+DRF+%F0%9F%8C+;Student+%40+Mars+IT+School+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Samandar+%F0%9F%91%8B;Backend+Developer+in+progress+%F0%9F%9A%80;Building+APIs+%26+Learning+Open+Source+%F0%9F%8C+;Student+%40+Mars+IT+School+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
